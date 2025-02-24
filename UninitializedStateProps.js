@@ -1,0 +1,1 @@
+This error occurs when you try to access a state variable or prop before it has been initialized. This commonly happens in functional components when accessing state variables inside the component's body before the useState hook has completed its execution.  It also occurs when using props before they are passed from the parent component.
